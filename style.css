@@ -10,3 +10,7 @@ form{
 div{
     text-align: center;
 }
+.custom-width {
+        height: 20px;
+        width: 100px;
+}
